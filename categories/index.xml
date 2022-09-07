@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on 泓均&#39;s 筆記 Site</title>
+        <link>https://npust-dnlab.github.io/jiun-hugo/categories/</link>
+        <description>Recent content in Categories on 泓均&#39;s 筆記 Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://npust-dnlab.github.io/jiun-hugo/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Github</title>
+        <link>https://npust-dnlab.github.io/jiun-hugo/categories/github/</link>
+        <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://npust-dnlab.github.io/jiun-hugo/categories/github/</guid>
+        <description>&lt;img src="https://npust-dnlab.github.io/jiun-hugo/categories/github/github.png" alt="Featured image of post Github" /&gt;</description>
+        </item>
+        <item>
+        <title>Heroku</title>
+        <link>https://npust-dnlab.github.io/jiun-hugo/categories/heroku/</link>
+        <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://npust-dnlab.github.io/jiun-hugo/categories/heroku/</guid>
+        <description>&lt;img src="https://npust-dnlab.github.io/jiun-hugo/categories/heroku/heroku.png" alt="Featured image of post Heroku" /&gt;</description>
+        </item>
+        <item>
+        <title>Hugo</title>
+        <link>https://npust-dnlab.github.io/jiun-hugo/categories/hugo/</link>
+        <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://npust-dnlab.github.io/jiun-hugo/categories/hugo/</guid>
+        <description>&lt;img src="https://npust-dnlab.github.io/jiun-hugo/categories/hugo/hugo.png" alt="Featured image of post Hugo" /&gt;</description>
+        </item>
+        <item>
+        <title>Shortcodes</title>
+        <link>https://npust-dnlab.github.io/jiun-hugo/categories/shortcodes/</link>
+        <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://npust-dnlab.github.io/jiun-hugo/categories/shortcodes/</guid>
+        <description>&lt;img src="https://npust-dnlab.github.io/jiun-hugo/categories/shortcodes/shortcodes.jpg" alt="Featured image of post Shortcodes" /&gt;</description>
+        </item>
+        <item>
+        <title>Golang</title>
+        <link>https://npust-dnlab.github.io/jiun-hugo/categories/golang/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://npust-dnlab.github.io/jiun-hugo/categories/golang/</guid>
+        <description>&lt;img src="https://npust-dnlab.github.io/jiun-hugo/categories/golang/golang.png" alt="Featured image of post Golang" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
